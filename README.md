@@ -1,2 +1,1 @@
-# FIRST-CLASS
-SO WE ARE MAKING THIS FOR THE PRACTICE.
+This is my sample open repository!
